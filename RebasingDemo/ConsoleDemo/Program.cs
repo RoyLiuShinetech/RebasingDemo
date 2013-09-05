@@ -17,6 +17,7 @@ namespace ConsoleDemo
             Console.WriteLine("Now I am in dev1 branch too");
             Console.WriteLine("Now I am in development branch too 2");
             Console.WriteLine("Now I am in dev1 branch too2");
+            Console.WriteLine("Now I am in dev1 branch too3");
         }
     }
 }
