@@ -12,6 +12,7 @@ namespace ConsoleDemo
         {
             Console.WriteLine("I am in master branch.");
             Console.WriteLine("I am in development branch.");
+            Console.WriteLine("Now I am in dev1 branch");
         }
     }
 }
