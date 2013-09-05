@@ -13,10 +13,12 @@ namespace ConsoleDemo
             Console.WriteLine("I am in master branch.");
 <<<<<<< HEAD
             Console.WriteLine("I am in development branch.");
+            Console.WriteLine("I am in shinetech branch.");
             Console.WriteLine("Now I am in dev1 branch");
+            Console.WriteLine("Now I am in development branch too");
 =======
             Console.WriteLine("I am in shinetech branch.");
->>>>>>> commit shinetech
+>>>>>>> cb67a7266ac29930a47fd3e91adec750d18a8f4b
         }
     }
 }
