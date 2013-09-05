@@ -11,11 +11,15 @@ namespace ConsoleDemo
         static void Main(string[] args)
         {
             Console.WriteLine("I am in master branch.");
-<<<<<<< HEAD
             Console.WriteLine("I am in development branch.");
-=======
             Console.WriteLine("Now I am in dev1 branch");
->>>>>>> dev1
+            Console.WriteLine("Now I am in development branch too");
+<<<<<<< HEAD
+            Console.WriteLine("Now I am in dev1 branch too");
+            Console.WriteLine("Now I am in dev1 branch too2");
+=======
+            Console.WriteLine("Now I am in development branch too 2");
+>>>>>>> development
         }
     }
 }
